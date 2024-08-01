@@ -1,0 +1,1 @@
+/home/vera/.config/maouvim/lua/plugins/telescope.lua
